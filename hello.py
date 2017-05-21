@@ -1,5 +1,6 @@
 //For command line git tutorial
-//locla repositoty modification
+//second:cla repositoty modification
+//fitst:GitHub modification
 
 print("Hello world")
 print("Tell Your world")
